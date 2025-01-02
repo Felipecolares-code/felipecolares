@@ -1,12 +1,11 @@
 # felipecolares
-Meu portifólio de projetos
-# Bem-vindo ao meu portfólio 👋
+My project portfolio
+# Wellcome to my portfólio 👋
 
-Sou Felipe Colares da Silva, estudante de Engenharia de Software e apaixonado por tecnologia. Aqui você encontrará meus projetos e contribuições.
-
-## Sobre mim
-- 🎓 Estudante do 3º semestre de Engenharia de Software.
-- 🔧 Focado em lógica de programação, desenvolvimento web e criação de algoritmos.
+I'm Felipe Colares da Silva, Software Engineering student and passionate about technology. Here you will find my projects and contributions.
+## About me
+- 🎓 3rd semester Software Engineering student.
+- 🔧 Focused on programming logic, web development and algorithm creation.
 ## Contato
 - 💼 [LinkedIn](https://linkedin.com/in/felipe-colares-da-silva-172546241/)
 - ✉️ E-mail: felipecolaresg@gmail.com
