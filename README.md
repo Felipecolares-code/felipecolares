@@ -9,3 +9,4 @@ I'm Felipe Colares da Silva, Software Engineering student and passionate about t
 ## Contato
 - 💼 [LinkedIn](https://linkedin.com/in/felipe-colares-da-silva-172546241/)
 - ✉️ E-mail: felipecolaresg@gmail.com
+- This is my small portfolio of personal projects to practice programming logic in VisualG : https://github.com/Felipecolares-code/my-projects-in-VisualG.git
